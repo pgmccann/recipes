@@ -4,4 +4,4 @@
 * lime or lemon
 * salt
 ## Instructions
-* put one avocado into a bowl
+* Remove the stone from a avocado
