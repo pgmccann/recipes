@@ -4,5 +4,4 @@
 * lime or lemon
 * salt
 ## Instructions
-* peel an avocado
-
+* Peel and remove the stone from a avocado
