@@ -4,3 +4,4 @@
 * lime
 * salt
 ## Instructions
+* Remove the stone from the avocado
