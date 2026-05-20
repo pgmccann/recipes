@@ -1,7 +1,7 @@
 # Guacamole
 ## Ingredients
-* acovado
-* lime
-* salt
+* Acovado
+* Lime
+* Salt
 ## Instructions
 * Remove the stone from the avocado
